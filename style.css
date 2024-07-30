@@ -319,23 +319,23 @@ body.scissors:active {
 
 .note__text {
     font-family: "Sofia";
-    padding: 0.5rem;
+    padding: 0.7rem;
 }
 
 .note__text p {
-    font-size: 0.5rem;
+    font-size: 0.7rem;
     margin-bottom: 1rem;
     text-align: center;
 }
 
 @media (min-width: 300px) and (max-width: 600px) {
     .note__text p {
-        font-size: 0.5rem;
+        font-size: 0.7rem;
     }
 }
 
 @media (min-width: 600px) {
     .note__text p {
-        font-size: 0.5rem;
+        font-size: 0.7rem;
     }
 }
