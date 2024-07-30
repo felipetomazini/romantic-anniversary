@@ -292,7 +292,7 @@ body.scissors:active {
 
 .note {
     width: 95%;
-    height: 10%;
+    height: 30%;
     background-color: #f9f9f9;
     position: absolute;
     overflow: hidden;
@@ -328,13 +328,13 @@ body.scissors:active {
     text-align: center;
 }
 
-@media (min-width: 300px) and (max-width: 600px) {
+@media (min-width: 300px) and (max-width: 1600px) {
     .note__text p {
         font-size: 1.025rem;
     }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 1600px) {
     .note__text p {
         font-size: 1.15rem;
     }
