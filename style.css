@@ -323,18 +323,18 @@ body.scissors:active {
 }
 
 .note__text p {
-    font-size: 0.9rem;
+    font-size: 0.5rem;
     margin-bottom: 1rem;
     text-align: center;
 }
 
-@media (min-width: 300px) and (max-width: 1600px) {
+@media (min-width: 300px) and (max-width: 600px) {
     .note__text p {
         font-size: 1.025rem;
     }
 }
 
-@media (min-width: 1600px) {
+@media (min-width: 600px) {
     .note__text p {
         font-size: 1.15rem;
     }
