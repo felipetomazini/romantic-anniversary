@@ -339,3 +339,11 @@ body.scissors:active {
         font-size: 0.7rem;
     }
 }
+
+.note img {
+    width: 100%;
+    height: auto;
+    display: block;
+    max-width: 100%;
+}
+
