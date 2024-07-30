@@ -292,7 +292,7 @@ body.scissors:active {
 
 .note {
     width: 95%;
-    height: 30%;
+    height: 10%;
     background-color: #f9f9f9;
     position: absolute;
     overflow: hidden;
